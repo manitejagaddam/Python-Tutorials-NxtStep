@@ -29,7 +29,7 @@
 #     print(i)
 
 
-# 10 9 8 7 6 5 4 3 2 1
+# [10 9 8 7 6 5 4 3 2 1]
 idx=int(input("Enter your idx number: "))
 for i in range(idx,0,-1):
     print(i)

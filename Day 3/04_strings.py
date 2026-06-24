@@ -8,7 +8,7 @@ String Operations:
 '''
 
 # Example 1: Concatenation
-# language_name = "sri rama "
+# language_name = "python "
 # meaning = "is a good programming language to start with."
 
 # print(language_name + " " + meaning)
