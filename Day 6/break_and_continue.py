@@ -240,3 +240,8 @@ multiple of 7
 
 # for idx in range(1, 100):
 #     print(idx)
+
+# for idx in range(1, 100, 1):
+#     if idx %7==0 and idx %5==0:
+#         continue
+#     print(idx)
