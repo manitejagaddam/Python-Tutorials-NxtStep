@@ -3,7 +3,7 @@
 # LIST -> Array
 natural_number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 to_do_list = ["List topic", "Problems on list", "examples of lists", "leetcode solving"]
-# print(to_do_list)
+print(to_do_list[0])
 
 
 # list topic
@@ -31,7 +31,7 @@ to_do_list = ["List topic", "Problems on list", "examples of lists", "leetcode s
 3. print the natural numbers list
 
 100
-[1, 2, 3, 4, 5, 6, 7, 8, ......., 100]
+[1, 2, 3, 4, 5, 6, 7, 8, ......., 100, 101].append(101)
 
 
 '''
