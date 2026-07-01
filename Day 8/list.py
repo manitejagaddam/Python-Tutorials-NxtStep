@@ -17,6 +17,8 @@ print(to_do_list[0])
 
 
 
+# natural_number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
 # n = len(to_do_list)
 
 # for idx in range(0, n, 1):

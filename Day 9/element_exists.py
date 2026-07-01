@@ -3,7 +3,7 @@
 # target = int(input("Enter your number to search : "))
 
 # Nivedith Code
-nums=[10, 20, 30, 40, 50, 60, 70]
+nums = [10, 20, 30, 40, 50, 60, 70]
 
 
 target = int(input("Enter your number to search in the list : "))
