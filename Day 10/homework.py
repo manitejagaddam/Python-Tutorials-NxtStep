@@ -7,7 +7,7 @@ Functions ->
     3. Sqare of all numbers in the list
     4. power of all numbers in the list
     5. Even or Odd printing of all the numbers in the list
-    
+
     1. addition(nums): -> integer
     2. multiplication(nums) -> integer
     3. Sqare of all number sqare(nums) -> print all sqares (no return)
