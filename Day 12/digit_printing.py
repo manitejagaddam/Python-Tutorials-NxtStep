@@ -1,11 +1,12 @@
 num = 12345678
+print(num)
 
 while num != 0:
     digit = num % 10
     print(digit)
     num = num // 10
-    
-    
+
+
 digits = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 # 123456789
 

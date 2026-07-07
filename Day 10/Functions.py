@@ -26,6 +26,25 @@ output ->
 '''
 
 
+
+
+# input()
+# print()
+
+nums = [10, 20, 30, 40, 50, 60]
+
+def my_len_func(nums):
+    count = 0
+    for num in nums:
+        count = count + 1
+    return count
+
+n = len(nums)
+n2 = my_len_func(nums)
+
+print(n)
+print(n2)
+
 # Mukesh Code
 # nums=[10,20,30,41,51,61,70,80,91]
 

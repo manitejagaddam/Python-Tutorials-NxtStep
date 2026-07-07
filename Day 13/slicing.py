@@ -7,6 +7,11 @@ Slicing
 
 # nums = [1, 2, 3, 4, 5, 6, 7, 8]
 
+
+nums = [1, 2, 3, 4, 5, 6, 7, 8]
+nums1 = nums[:5]
+print(nums1)
+
 # nums1 = nums[3:]
 
 

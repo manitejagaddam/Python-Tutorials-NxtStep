@@ -7,6 +7,23 @@ num = [10, 20, 30, 40, 50, 60, 70, 80]
     # a = b
     # b = temp
 
+a = 10
+b = 20
+
+# a = 10, b = 20
+a = b # a = 20, b = 20
+b = a # a = 20, b = 20
+
+
+
+temp = a
+a = b
+b = temp
+
+
+a, b = b, a
+
+
 n = len(num)
 idx1 = 0
 idx2 = n - 1

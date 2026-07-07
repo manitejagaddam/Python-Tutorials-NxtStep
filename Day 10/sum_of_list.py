@@ -15,3 +15,14 @@ for idx in range(n): # 0 1 2 3
 
 
 print(sum_val)
+
+
+def sum_list(nums):
+    sum_val = 0
+    n = len(nums)
+    for idx in range(n):
+        sum_val = sum_val + nums[idx]
+        
+    return sum_val
+
+print(sum_list(nums))
